@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.log
+.ipynb_checkpoints/
+
+chroma_db/
+vector_db/
+data/raw/
+
+.DS_Store
