@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+rank-bm25
+arxiv
+pypdf
+gradio
+networkx
+numpy
+pandas
+tqdm
