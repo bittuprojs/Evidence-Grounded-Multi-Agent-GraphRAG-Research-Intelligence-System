@@ -1,0 +1,566 @@
+[
+  {
+    "domain": "General",
+    "query": "machine learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "deep learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "data mining",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "pattern recognition",
+    "returned": 50,
+    "added": 1
+  },
+  {
+    "domain": "General",
+    "query": "optimization algorithms",
+    "returned": 50,
+    "added": 1
+  },
+  {
+    "domain": "General",
+    "query": "statistical learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "information retrieval",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "natural language processing",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "computer vision",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "probabilistic models",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "graph algorithms",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "scientific computing",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "numerical methods",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "pattern classification",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "dimensionality reduction",
+    "returned": 50,
+    "added": 1
+  },
+  {
+    "domain": "General",
+    "query": "feature engineering",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "unsupervised learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "supervised learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "multi task learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "representation learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "time series analysis",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "data analysis methods",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "artificial intelligence",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "computational methods",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "applied machine learning",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "algorithm design",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "data science",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "knowledge discovery",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "statistics and learning",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "computational statistics",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "quantum computing applications",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "computational physics methods",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "materials science simulation",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "particle physics data analysis",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "condensed matter physics modeling",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "plasma physics simulation",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "astrophysics computational methods",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "statistical mechanics algorithms",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "computational biology methods",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "bioinformatics analysis",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "genomics data processing",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "protein structure prediction",
+    "returned": 50,
+    "added": 1
+  },
+  {
+    "domain": "General",
+    "query": "systems biology modeling",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "phylogenetic analysis algorithms",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "metabolic network analysis",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "single cell sequencing analysis",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "chemical informatics",
+    "returned": 50,
+    "added": 32
+  },
+  {
+    "domain": "General",
+    "query": "drug discovery computational",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "molecular modeling techniques",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "chemical reaction prediction",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "quantum chemistry calculations",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "cheminformatics databases",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "catalysis computational design",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "spectroscopy data analysis",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "climate modeling algorithms",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "environmental data analysis",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "pollution monitoring systems",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "ecosystem modeling methods",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "carbon cycle simulation",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "biodiversity computational analysis",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "water quality prediction models",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "atmospheric chemistry modeling",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "geological data processing",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "seismic analysis algorithms",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "mineral exploration methods",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "hydrogeology modeling",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "geospatial analysis techniques",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "remote sensing applications",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "geological simulation software",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "natural disaster prediction",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "brain imaging analysis",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "neural network modeling",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "computational neuroscience",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "neuroinformatics methods",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "cognitive modeling algorithms",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "brain connectivity analysis",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "neural signal processing",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "behavioral data analysis",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "numerical analysis methods",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "optimization algorithms",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "statistical modeling techniques",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "machine learning mathematics",
+    "returned": 50,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "graph theory applications",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "linear algebra computational",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "differential equations solving",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "network analysis mathematics",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "scientific data visualization",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "research data management",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "statistical analysis methods",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "experimental design optimization",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "scientific computing frameworks",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "big data scientific applications",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "research reproducibility methods",
+    "returned": 0,
+    "added": 0
+  },
+  {
+    "domain": "General",
+    "query": "scientific workflow automation",
+    "returned": 0,
+    "added": 0
+  }
+]

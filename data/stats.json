@@ -1,0 +1,14 @@
+{
+  "total_unique_papers": 665,
+  "domain_counts": {
+    "AI/ML": 379,
+    "Medical": 127,
+    "Finance": 120,
+    "General": 39
+  },
+  "domain_targets": {
+    "Medical": 120,
+    "Finance": 120,
+    "General": 120
+  }
+}
